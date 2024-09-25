@@ -1,0 +1,3 @@
+migc_ckpt_path: 'checkpoints/migc/MIGC_SD14.ckpt'
+sd1x_ckpt_path: 'checkpoints/stablediffusion/v1/huggingfacepipeline'
+interact_ckpt_path: 'checkpoints/interactdiffusion'

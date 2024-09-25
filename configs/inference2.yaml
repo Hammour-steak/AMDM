@@ -1,0 +1,5 @@
+interact_ckpt_path: 'checkpoints/interactdiffusion'
+ip_base_model_ckpt_path: 'checkpoints/runwayml/stable-diffusion-v1-5'
+ip_adapter_ckpt_path: 'checkpoints/IPAdapter/models/ip-adapter_sd15.safetensors'
+vae_ckpt_path: 'checkpoints/stabilityai/sd-vae-ft-mse'
+image_encoder_ckpt_path: 'checkpoints/IPAdapter/models/image_encoder'
