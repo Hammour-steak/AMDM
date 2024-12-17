@@ -1,5 +1,5 @@
 <h1 align="center"> Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models </h1>
-
+<h3 align="center"> [<a href="https://arxiv.org/abs/2410.01262">arXiv</a>]</h3>
 Aggregation of Multi Diffusion Models (AMDM) algorithm can aggregate features from different conditional control diffusion models with the same theoretical foundations into a specific model, enabling fine-grained conditional control.
 
 In this GitHub repository, we provide three examples to verify the effectiveness of the algorithm.
