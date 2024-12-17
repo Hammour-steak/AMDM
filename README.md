@@ -1,4 +1,4 @@
-<h1 align="center"> Aggregation of Multi Diffusion Models for Enhancing Learned Representations </h1>
+<h1 align="center"> Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models </h1>
 
 Aggregation of Multi Diffusion Models (AMDM) algorithm can aggregate features from different conditional control diffusion models with the same theoretical foundations into a specific model, enabling fine-grained conditional control.
 
